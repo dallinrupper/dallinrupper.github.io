@@ -8,4 +8,6 @@
 
 [This will take you to github pages](https://pages.github.com/)
 
-```html Hello <strong>world</strong>!```
+```html
+Hello <strong>world</strong>!
+```
