@@ -4,7 +4,7 @@ body {
   margin-right: 4em;
   margin-left: 4em;
   width: 1000px;
-  padding: 20px;
+  padding: 25px;
   text-align: center;
 }
 h1 {
@@ -58,7 +58,4 @@ p {
 div {
     font-family: "Open Sans";
   font-size: 1rem;
-}
-* {
-  padding 25px;
 }
