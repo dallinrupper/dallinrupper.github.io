@@ -28,6 +28,7 @@ a[href^="http:"] {
   background-color: #a9a9ba;
   color: #9f2042;
   text-decoration: none;
+  text-align: left;
 }
 a[href^="https:"]{
     border: 2px solid grey;
@@ -36,9 +37,11 @@ a[href^="https:"]{
   background-color: #a9a9ba;
   color: #9f2042;
   text-decoration: none;
+  text-align: left;
 }
 footer {
   background-color: #29293a;
+  text-align: left;
 }
 .details {
   color: #a9a9ba;
