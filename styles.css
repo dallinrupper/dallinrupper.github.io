@@ -16,7 +16,6 @@ blockquote {
   font-family: "Roboto Slab";
     font-size: 1.25rem;
   background-color: #f9f9f9;
-  color: #ececec;
     border: 2px solid grey;
   border-radius: 5px;
   padding: 10px;
@@ -28,7 +27,6 @@ a[href^="http:"] {
   background-color: #a9a9ba;
   color: #9f2042;
   text-decoration: none;
-  text-align: left;
 }
 a[href^="https:"]{
     border: 2px solid grey;
@@ -37,17 +35,21 @@ a[href^="https:"]{
   background-color: #a9a9ba;
   color: #9f2042;
   text-decoration: none;
-  text-align: left;
+}
+#buttons {
+    text-align: left;
 }
 footer {
   background-color: #29293a;
   text-align: left;
 }
-.details {
+#details {
   color: #a9a9ba;
+  vertical-align: text-top;
 }
-a href="#"{
-  color: #9f2042
+a[href^="#"]{
+  color: #9f2042;
+  text-decoration: none;
 }
 .hero{
   width: 50vw;
@@ -59,8 +61,10 @@ img {
 p {
     font-family: "Open Sans";
   font-size: 1rem;
+  text-align-last: left;
 }
 div {
     font-family: "Open Sans";
   font-size: 1rem;
+
 }
