@@ -35,6 +35,6 @@ footer {
   color: #9f2042
 }
 .details {
-  color: #a9a9ba
-    
+  color: #a9a9ba;
+    display: flex
 }
