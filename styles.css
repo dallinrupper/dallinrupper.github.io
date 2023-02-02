@@ -24,19 +24,19 @@ a[href^="http:"] {
     border: 2px solid grey;
   border-radius: 5px;
   padding-bottom: 1rem;
+  background-color: #a9a9ba;
+  color: #9f2042;
 }
 a[href^="https:"]{
     border: 2px solid grey;
   border-radius: 5px;
   padding: 10px;
+  background-color: #a9a9ba;
+  color: #9f2042;
   
 }
 footer {
   background-color: #29293a;
-}
-#buttons:hover {
-  background-color: #a9a9ba;
-  color: #9f2042
 }
 .details {
   color: #a9a9ba;
