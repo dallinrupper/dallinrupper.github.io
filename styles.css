@@ -43,3 +43,11 @@ footer {
 a href="#"{
   color: #9f2042
 }
+.hero{
+  height:100vh;
+  width: 100vw;
+}
+img {
+ width : 100%;
+ height: 100%; 
+}
