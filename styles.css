@@ -18,6 +18,9 @@ h1 {
 blockquote {
   font-family: 'Roboto Slab";
     font-size: 1.25rem;
+  background-color: #ececec;
+    border: 2px solid grey;
+  border-radius: 5px;
 }
 a[href^="http:"] {
     border: 2px solid grey;
