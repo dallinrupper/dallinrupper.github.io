@@ -3,7 +3,10 @@ body {
   margin-bottom: 0em;
   margin-right: 4em;
   margin-left: 4em;
+  font-family: "Open Sans";
+  font-size: 1rem;
 }
+
 h1 {
   font-family: "Roboto Slab";
     font-size: 2rem;
