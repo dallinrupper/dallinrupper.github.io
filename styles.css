@@ -60,3 +60,6 @@ div {
     font-family: "Open Sans";
   font-size: 1rem;
 }
+* {
+  padding 25px;
+}
