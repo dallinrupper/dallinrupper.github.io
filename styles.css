@@ -10,7 +10,6 @@ body {
   text-align: center;
   text-align-last: left;
 }
-
 h1 {
   font-family: "Roboto Slab";
     font-size: 2rem;
@@ -33,14 +32,12 @@ a[href^="https:"]{
   padding: 10px;
   background-color: #a9a9ba;
   color: #9f2042;
-  
 }
 footer {
   background-color: #29293a;
 }
 .details {
   color: #a9a9ba;
-  text-align: center
 }
 a href="#"{
   color: #9f2042
