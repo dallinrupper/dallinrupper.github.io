@@ -7,7 +7,7 @@ body {
   font-size: 1rem;
   width: 1000px;
   padding: 20px;
-  text-align: center;
+  text-align-last: left;
 }
 
 h1 {
@@ -36,5 +36,5 @@ footer {
 }
 .details {
   color: #a9a9ba;
-    display: flex
+  text-align: center
 }
