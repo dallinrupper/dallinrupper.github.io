@@ -17,6 +17,7 @@ blockquote {
   font-family: 'Roboto Slab";
     font-size: 1.25rem;
   background-color: #ececec;
+  color: #f9f9f9
     border: 2px solid grey;
   border-radius: 5px;
 }
