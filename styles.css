@@ -5,8 +5,8 @@ body {
   margin-left: 4em;
   font-family: "Open Sans";
   font-size: 1rem;
-  width: 320px;
-  padding: 10px;
+  width: 1000px;
+  padding: 20px;
 }
 
 h1 {
@@ -20,4 +20,7 @@ blockquote {
 #buttons {
     border: 2px solid grey;
   border-radius: 5px;
+}
+footer {
+  backgroung color: #29293a;
 }
