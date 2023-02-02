@@ -3,8 +3,6 @@ body {
   margin-bottom: 0em;
   margin-right: 4em;
   margin-left: 4em;
-  font-family: "Open Sans";
-  font-size: 1rem;
   width: 1000px;
   padding: 20px;
   text-align: center;
@@ -52,4 +50,12 @@ a href="#"{
 img {
  width : 50%;
  height: 50%; 
+}
+p {
+    font-family: "Open Sans";
+  font-size: 1rem;
+}
+div {
+    font-family: "Open Sans";
+  font-size: 1rem;
 }
