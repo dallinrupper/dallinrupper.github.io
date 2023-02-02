@@ -20,6 +20,7 @@ blockquote {
   color: #f9f9f9
     border: 2px solid grey;
   border-radius: 5px;
+  padding: 10px;
 }
 a[href^="http:"] {
     border: 2px solid grey;
