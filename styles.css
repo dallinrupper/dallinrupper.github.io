@@ -19,11 +19,11 @@ blockquote {
   font-family: 'Roboto Slab";
     font-size: 1.25rem;
 }
-href="http" {
+a[href^="http:"] {
     border: 2px solid grey;
   border-radius: 5px;
 }
-href="https" {
+a[href^="https:"]{
     border: 2px solid grey;
   border-radius: 5px;
 }
@@ -36,4 +36,5 @@ footer {
 }
 .details {
   color: #a9a9ba
+    
 }
