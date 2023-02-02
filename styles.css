@@ -22,10 +22,12 @@ blockquote {
 a[href^="http:"] {
     border: 2px solid grey;
   border-radius: 5px;
+  padding-bottom: 1rem;
 }
 a[href^="https:"]{
     border: 2px solid grey;
   border-radius: 5px;
+  padding-bottom: 1rem;
 }
 footer {
   background-color: #29293a;
