@@ -4,3 +4,11 @@ body {
   margin-right: 4em;
   margin-left: 4em;
 }
+h1 {
+  font-family: "Roboto Slab";
+    font-size: 2rem;
+}
+blockquote {
+  font-family: 'Roboto Slab";
+    font-size: 1.25rem;
+}
