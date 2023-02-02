@@ -28,7 +28,8 @@ a[href^="http:"] {
 a[href^="https:"]{
     border: 2px solid grey;
   border-radius: 5px;
-  padding-bottom: 1rem;
+  padding: 10px;
+  
 }
 footer {
   background-color: #29293a;
