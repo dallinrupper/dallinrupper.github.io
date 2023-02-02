@@ -30,3 +30,7 @@ href="https" {
 footer {
   backgroung color: #29293a;
 }
+#buttons a:hover {
+  background-color: #a9a9ba;
+  color: #9f2042
+}
