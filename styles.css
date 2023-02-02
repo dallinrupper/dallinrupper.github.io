@@ -30,7 +30,7 @@ a[href^="https:"]{
 footer {
   background-color: #29293a;
 }
-#buttons a:hover {
+#buttons:hover {
   background-color: #a9a9ba;
   color: #9f2042
 }
